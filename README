@@ -1,0 +1,4 @@
+Caniamtor is a javascript framework that can continually modify specific dom attribute easily. So the code can help you build uo a web based animation quickly. 
+this code is under the terms of the GNU General Public License as published by the Free Software Foundation either version 3, or (at your option) any later version. http://www.gnu.org/licenses/gpl.html
+please read the doc in folder named doc for help.
+thie folder named example is the example of the use of Canimator.

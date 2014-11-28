@@ -1,0 +1,10 @@
+@charset "utf-8";
+* {
+	font-family: Arial;
+}
+h1 {
+	font-size:20px;
+}
+.item {
+	border-bottom: 1px dashed #000;
+}
